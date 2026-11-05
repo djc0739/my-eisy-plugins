@@ -1,0 +1,4 @@
+# Local-only files at the repo root
+developer_config.json
+.DS_Store
+*.bak
